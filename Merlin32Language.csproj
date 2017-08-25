@@ -125,6 +125,8 @@
     <Compile Include="Coloring\Classification\ClassificationFormat.cs" />
     <Compile Include="Coloring\Classification\ClassificationType.cs" />
     <Compile Include="Coloring\Data\SnapshotHelper.cs" />
+    <Compile Include="Outline\OutlineTagger.cs" />
+    <Compile Include="Outline\OutlineTaggerProvider.cs" />
     <Compile Include="Resources\data.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
